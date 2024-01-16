@@ -3,7 +3,7 @@ module.exports = {
   title: 'Physicist',
   facts: {
     Residence: '<a href="https://maps.app.goo.gl/bKadFK25XZ5qmLiD9"><i class="fa fa-home fact-icon"></i>Cordoba</a>',
-    Resume Online: `<a href="https://mbetteram.github.io/online-resume"><i class="fa-duotone fa-globe-pointer"></i>Resume Online</a>`,
+    ResumeOnline: `<a href="https://mbetteram.github.io/online-resume"><i class="fa-duotone fa-globe-pointer"></i>Resume Online</a>`,
     LinkedIn: '<a href="https://www.linkedin.com/in/sneas"><i class="fab fa-linkedin fact-icon"></i>sneas</a>',
     GitHub: '<a href="https://github.com/sneas"><i class="fab fa-github fact-icon"></i>sneas</a>',
     Mobile: '<a href="tel:+31645223717"><i class="fa fa-phone fact-icon"></i>+31645223717</a>',
@@ -111,5 +111,4 @@ Student assistant for problem classes.
 `,
     },
   ],
-  education
 };
