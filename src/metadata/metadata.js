@@ -1,68 +1,115 @@
 module.exports = {
-  name: 'William Shakespeare',
-  title: 'Poet, playwright and actor',
+  name: 'Matias Bettera Marcat',
+  title: 'Physicist',
   facts: {
-    'Residence': '<a href="https://www.google.com/maps/place/London,+UK/@51.5285582,-0.2416814,11z/data=!3m1!4b1!4m5!3m4!1s0x47d8a00baf21de75:0x52963a5addd52a99!8m2!3d51.5072178!4d-0.1275862"><i class="fa fa-home fact-icon"></i>London</a>',
-    'Wiki': `<a href="https://en.wikipedia.org/wiki/William_Shakespeare">
-                  <i class="fa-brands fa-wikipedia-w fact-icon"></i>William_Shakespeare
-                </a>`,
-    'Twitter': `<a href="https://twitter.com/shakespeare"><i class="fa-brands fa-twitter fact-icon"></i>Shakespeare</a>`,
-    'Email': '<a href="mailto:wil64@yahoo.com"><i class="fa fa-envelope fact-icon"></i>wil64@yahoo.com</a>'
+    Residence: '<a href="https://maps.app.goo.gl/bKadFK25XZ5qmLiD9"><i class="fa fa-home fact-icon"></i>Cordoba</a>',
+    Resume Online: `<a href="https://mbetteram.github.io/online-resume"><i class="fa-duotone fa-globe-pointer"></i>Resume Online</a>`,
+    LinkedIn: '<a href="https://www.linkedin.com/in/sneas"><i class="fab fa-linkedin fact-icon"></i>sneas</a>',
+    GitHub: '<a href="https://github.com/sneas"><i class="fab fa-github fact-icon"></i>sneas</a>',
+    Mobile: '<a href="tel:+31645223717"><i class="fa fa-phone fact-icon"></i>+31645223717</a>',
+    Email: '<a href="mailto:bettera.marcat@gmail.com"><i class="fa fa-envelope fact-icon"></i>bettera.marcat@gmail.com</a>'
   },
   skills: [
-    ['Comedy', 100],
-    ['Love', 100],
-    ['Theater', 100],
-    ['Tragedy', 100],
-    ['Poetry', 100],
-    ['Erotic', 75],
-    ['Sonnets', 100],
-    ['Plays', 100],
-    ['Writing', 100],
-    ['Directing', 75],
-    ['Literature', 100],
-    ['Influence', 100],
+    ['Fortran', 90],
+    ['C', 70],
+    ['Bash/Shell scripting', 80],
+    ['gnuplot', 90],
+    ['Python', 90],
+    ['numpy', 100],
+    ['matplotlib', 90],
+    ['seaborn', 70],
+    ['jupyter', 90],
+    ['Git/Github', 80],
+    ['scikit-learn', 80],
+    ['tensorflow', 70],
+    ['ssh', 90],
+    ['SQL', 70]
   ],
+
+
   positions: [
     {
-      title: 'Hamlet',
-      period: 'Likely early 17th century',
-      skills: ['tragedy', 'philosophy', 'death'],
+      company: 'Universidad Empresarial Siglo 21',
+      location: 'Cordoba, AR',
+      title: 'Proffessor',
+      period: 'Mar 2023 - Present',
+      // skills: ['AWS', 'GCP', 'Terraform', 'NodeJS', 'React Native', 'Angular', 'OAuth', 'Browser Extensions', 'Typescript'],
       contents: `
-Prince Hamlet is visited by his father's ghost and ordered to avenge his father's murder by killing King Claudius, his uncle. After struggling with several questions, including whether what the ghost said is true and whether it is right for him to take revenge, Hamlet, along with almost all the other major characters, is killed.
+[Universidad Empresarial Siglo 21](https://21.edu.ar/) is a bussiness oriented private university. I am proffessor of theoretical and poblem clases of many mathematics courses, statcis and physics.
+
+  -__ Distance courses _(two months period)_: Physics, Statics, Mathematical Analisys, Algebra.
+  -__ Presential intensive courses _(two months period)_: Mathematical Analisys, Statistics II.
+  -__ Presential courses _(four months period)_: Mathematical Analisys.
 `
     },
     {
-      title: 'Twelfth Night',
-      period: '1600 – 1601',
-      skills: ['comedy', 'love'],
+      company: 'Data Science Diploma. Mathematics, Astronomy, Physics and Computer Science school, National University of Córdoba. _(FAMAF, UNC)_',
+      location: 'Cordoba, AR',
+      title: 'Monitoring teacher',
+      period: 'May 2023 - Sep 2023',
+      skills: ['Python', 'jupyter', 'numpy', 'pandas', 'matplotlib', 'seaborn', 'SQL', 'scikit-learn', 'tensorflow', 'Git'],
       contents: `
-Viola finds herself shipwrecked in Illyria and, assuming that her brother Sebastian has died in the wreck, disguises herself as a man to gain a position in Duke Orsino's court. Orsino sends Viola (whom he knows as Cesario) to deliver a message to his love, Olivia. Olivia, however, dislikes the Duke. She falls in love with Viola, who she thinks is a man. Eventually, Viola's brother Sebastian, who in fact was unharmed in the wreck, reappears. At a critical moment, Viola's true identity is revealed when members of the court notice the similarities between her and Sebastian. Olivia quickly falls in love with Sebastian, and Viola confesses her love for the Duke.
+My role at [Data science diploma, at FAMAF-UNC](https://diplodatos.famaf.unc.edu.ar/) consisted in the monitoring, advising and evaluation of assignments, of four groups of four people each.
 `
     },
     {
-      title: 'The Tragedy of Romeo and Juliet',
-      period: '1595–1596, with a possible early draft written in 1591',
-      skills: ['tragedy', 'death', 'love'],
+      company: 'National University of Rio Cuarto, Argentina. _(UNRC)_',
+      location: 'Rio Cuarto, AR',
+      title: 'Lecturer _(Profesor Ayudante de Priemra.)_',
+      period: 'Mar 2022 – Present, Mar 2016 - Jul 2016',
+      // skills: ['AWS', 'Terraform', 'NodeJS', 'GraphQL', 'React', 'Mobx', 'Redux', 'Webpack', 'Jest', 'Storybook'],
       contents: `
-In Verona, Italy, two families, the Montagues and the Capulets, are in the midst of a bloody feud. Romeo, a Montague, and Juliet, a Capulet, fall in love and struggle to maintain their relationship in the face of familial hatred. After Romeo kills Juliet's cousin Tybalt in a fit of passion, things fall apart. Both lovers eventually commit suicide within minutes of each other, and the feuding families make peace over their recent grief.
-`
-    }
+Lecturer for problem classes. Evaluation of midterm and final examns.
+
+- __2nd sem 23__ Thermodynamics and Statistical Mechanics II _and_ Modern Physics I
+- __1st sem 23__ Thermodynamics and Statistical Mechanics I _and_ Physics 4 (Modern Physics)
+- __2nd sem 22__ General Physics III (Electricity and Magnetism).
+- __1st sem 22__ Thermodynamics and Statistical Mechanics I.
+- __1st sem 16__ General Physics IV (Waves and Optics).
+`,
+    },
+    {
+      company: 'Mathematics, Astronomy, Physics and Computer Science school, National University of Córdoba, Argentina. _(FAMAF, UNC)_',
+      location: 'Cordoba, AR',
+      title: 'Lecturer _(Profesor Ayudante B D.S.)_',
+      period: 'March 2022 – Feb 2023',
+      // skills: ['AWS', 'Terraform', 'NodeJS', 'GraphQL', 'React', 'Mobx', 'Redux', 'Webpack', 'Jest', 'Storybook'],
+      contents: `
+Lecturer for problem classes. Evaluation of midterm and final examns.
+ 
+  - __Feb 22__ Admission and introductory course.  
+  - __2nd sem. 22__ Mechanics
+  - __1st sem. 22__ Admission and introductory course.
+`,
+    },
+    {
+      company: 'CONICET _(Argentinian institution for research public funding)_',
+      location: 'Cordoba, AR, NL',
+      title: 'Research',
+      period: 'Apr 2014 – Feb 2017',
+      skills: ['Data analysis', 'Modeling', 'Simulation', 'Active Matter', 'Biophysics'],
+      contents: `
+__Research fellowship__, granted by  CONICET. _(Beca Interna Doctoral de CONICET)_
+
+Research on active matter, particularly sperm dynamics in confined environments, with simulations and experimental data analysis.
+
+_(Investigación sobre materia activa, en particular dinámica de espermátozoides en ambientes confinados, con simulaciones y análisis de datos experimentales.)_
+`,
+    },
+    {
+      company: 'National University of Rio Cuarto, Argentina. _(UNRC)_',
+      location: 'Rio Cuarto, AR',
+      title: 'Student assistant _(Alumno Ayudante de Segunda D.S.)_',
+      period: 'Aug 2014 – Jul 2015, Aug 2012 – Jul 2013',
+      // skills: ['AWS', 'Terraform', 'NodeJS', 'GraphQL', 'React', 'Mobx', 'Redux', 'Webpack', 'Jest', 'Storybook'],
+      contents: `
+Student assistant for problem classes.
+  - __1st sem 15__ Electromagnetism I
+  - __2nd sem 14__ General Physics I (Introduction to Mechanics)
+  - __1st sem 13__ Mechanics
+  - __2nd sem 12__ Electromagnetism I
+`,
+    },
   ],
-  experience: [
-    {
-      header: 'Performance',
-      skills: ['theater', 'play'],
-      contents: `
-Thousands of performances of my plays have been staged since the end of the 16th century. Many of my greatest plays were performed by the Lord Chamberlain's Men and King's Men acting companies at the [Globe](https://en.wikipedia.org/wiki/Globe_Theatre) and Blackfriars Theatres.
-`
-    },
-    {
-      header: 'Poetry',
-      skills: ['poetry', 'erotic'],
-      contents: `
-In 1593 and 1594, when the theatres were closed because of plague, I published two narrative poems on sexual themes, Venus and Adonis and The Rape of Lucrece. I dedicated them to Henry Wriothesley, Earl of Southampton.
-`
-    }
-  ]
+  education
 };
