@@ -76,7 +76,7 @@ Lecturer for problem classes. Evaluation of midterm and final examns.
       contents: `
 Lecturer for problem classes. Evaluation of midterm and final examns.
  
-  - __Feb 22__ Admission and introductory course.  
+  - __Feb 23__ Admission and introductory course.  
   - __2nd term 22__ Mechanics
   - __1st term 22__ Admission and introductory course.
 `,
