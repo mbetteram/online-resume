@@ -3,7 +3,7 @@ module.exports = {
   title: 'Physicist',
   facts: {
     Residence: '<a href="https://maps.app.goo.gl/bKadFK25XZ5qmLiD9"><i class="fa fa-home fact-icon"></i>Cordoba</a>',
-    ResumeOnline: `<a href="https://mbetteram.github.io/resume/"><i class="fa-duotone fa-globe-pointer"></i>Resume Online</a>`,
+    ResumeOnline: `<a href="https://mbetteram.github.io/online-resume/"><i class="fa-duotone fa-globe-pointer"></i>Resume Online</a>`,
     LinkedIn: '<a href="https://www.linkedin.com/in/matias-bettera-marcat-3897131b/"><i class="fab fa-linkedin fact-icon"></i>Matias Bettera Marcat</a>',
     GitHub: '<a href="https://github.com/mbetteram"><i class="fab fa-github fact-icon"></i>mbetteram</a>',
     Mobile: '<a href="tel:+5493584834287"><i class="fa fa-phone fact-icon"></i>+54 9 358 483 4287</a>',

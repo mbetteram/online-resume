@@ -1,6 +1,6 @@
 # Resume Matias Bettera Marcat
 
-Go to [https://mbetteram.github.io/resume/](https://mbetteram.github.io/resume/).
+Go to [https://mbetteram.github.io/online-resume/](https://mbetteram.github.io/online-resume/).
 
 ---
 
