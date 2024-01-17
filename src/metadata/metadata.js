@@ -36,9 +36,9 @@ module.exports = {
       contents: `
 [Universidad Empresarial Siglo 21](https://21.edu.ar/) is a bussiness oriented private university. I am proffessor of theoretical and poblem clases of many mathematics courses, statcis and physics.
 
-    - __Distance courses__ _(two months period)_: Physics, Statics, Mathematical Analisys, Algebra.
-    - __Presential intensive courses__ _(two months period)_: Mathematical Analisys, Statistics II.
-    - __Presential courses__ _(four months period)_: Mathematical Analisys.
+  - __Distance courses__ _(two months period)_: Physics, Statics, Mathematical Analisys, Algebra.
+  - __Presential intensive courses__ _(two months period)_: Mathematical Analisys, Statistics II.
+  - __Presential courses__ _(four months period)_: Mathematical Analisys.
 `
     },
     {
@@ -60,11 +60,11 @@ My role at [Data science diploma, at FAMAF-UNC](https://diplodatos.famaf.unc.edu
       contents: `
 Lecturer for problem classes. Evaluation of midterm and final examns.
 
-    - __2nd term 23__ Thermodynamics and Statistical Mechanics II _and_ Modern Physics I
-    - __1st term 23__ Thermodynamics and Statistical Mechanics I _and_ Physics 4 (Modern Physics)
-    - __2nd term 22__ General Physics III (Electricity and Magnetism).
-    - __1st term 22__ Thermodynamics and Statistical Mechanics I.
-    - __1st term 16__ General Physics IV (Waves and Optics).
+  - __2nd term 23__ Thermodynamics and Statistical Mechanics II _and_ Modern Physics I
+  - __1st term 23__ Thermodynamics and Statistical Mechanics I _and_ Physics 4 (Modern Physics)
+  - __2nd term 22__ General Physics III (Electricity and Magnetism).
+  - __1st term 22__ Thermodynamics and Statistical Mechanics I.
+  - __1st term 16__ General Physics IV (Waves and Optics).
 `,
     },
     {
@@ -76,9 +76,9 @@ Lecturer for problem classes. Evaluation of midterm and final examns.
       contents: `
 Lecturer for problem classes. Evaluation of midterm and final examns.
  
-    - __Feb 22__ Admission and introductory course.  
-    - __2nd term 22__ Mechanics
-    - __1st term 22__ Admission and introductory course.
+  - __Feb 22__ Admission and introductory course.  
+  - __2nd term 22__ Mechanics
+  - __1st term 22__ Admission and introductory course.
 `,
     },
     {
