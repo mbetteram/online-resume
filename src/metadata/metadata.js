@@ -4,9 +4,9 @@ module.exports = {
   facts: {
     Residence: '<a href="https://maps.app.goo.gl/bKadFK25XZ5qmLiD9"><i class="fa fa-home fact-icon"></i>Cordoba</a>',
     ResumeOnline: `<a href="https://mbetteram.github.io/online-resume"><i class="fa-duotone fa-globe-pointer"></i>Resume Online</a>`,
-    LinkedIn: '<a href="https://www.linkedin.com/in/sneas"><i class="fab fa-linkedin fact-icon"></i>sneas</a>',
-    GitHub: '<a href="https://github.com/sneas"><i class="fab fa-github fact-icon"></i>sneas</a>',
-    Mobile: '<a href="tel:+31645223717"><i class="fa fa-phone fact-icon"></i>+31645223717</a>',
+    LinkedIn: '<a href="https://www.linkedin.com/in/matias-bettera-marcat-3897131b/"><i class="fab fa-linkedin fact-icon"></i>Matias Bettera Marcat</a>',
+    GitHub: '<a href="https://github.com/mbetteram"><i class="fab fa-github fact-icon"></i>mbetteram</a>',
+    Mobile: '<a href="tel:+5493584834287"><i class="fa fa-phone fact-icon"></i>+54 9 358 483 4287</a>',
     Email: '<a href="mailto:bettera.marcat@gmail.com"><i class="fa fa-envelope fact-icon"></i>bettera.marcat@gmail.com</a>'
   },
   skills: [
