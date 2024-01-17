@@ -36,9 +36,9 @@ module.exports = {
       contents: `
 [Universidad Empresarial Siglo 21](https://21.edu.ar/) is a bussiness oriented private university. I am proffessor of theoretical and poblem clases of many mathematics courses, statcis and physics.
 
-  -__Distance courses__ _(two months period)_: Physics, Statics, Mathematical Analisys, Algebra.
-  -__Presential intensive courses__ _(two months period)_: Mathematical Analisys, Statistics II.
-  -__Presential courses__ _(four months period)_: Mathematical Analisys.
+  - __Distance courses__ _(two months period)_: Physics, Statics, Mathematical Analisys, Algebra.
+  - __Presential intensive courses__ _(two months period)_: Mathematical Analisys, Statistics II.
+  - __Presential courses__ _(four months period)_: Mathematical Analisys.
 `
     },
     {
