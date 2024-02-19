@@ -85,7 +85,7 @@ Lecturer for problem classes. Evaluation of midterm and final examns.
       company: 'CONICET (Argentinian institution for research public funding)',
       location: 'Cordoba, AR, NL',
       title: 'Research',
-      period: 'Apr 2014 – Feb 2017',
+      period: 'Apr 2016 – Mar 2022',
       skills: ['Data analysis', 'Modeling', 'Simulation', 'Active Matter', 'Biophysics'],
       contents: `
 __Research fellowship__, granted by  CONICET. _(Beca Interna Doctoral de CONICET)_
