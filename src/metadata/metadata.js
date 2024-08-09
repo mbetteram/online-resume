@@ -36,16 +36,17 @@ module.exports = {
       contents: `
 [Universidad Empresarial Siglo 21](https://21.edu.ar/) is a bussiness oriented private university. I am professor of theoretical and poblem clases of many mathematics courses, statcis and physics.
 
-  - __Distance courses__ _(two months period)_: Physics, Statics, Mathematical Analisys, Algebra.
+  - __Presential courses__ _(four months period)_: Algebra, Mathematical Analisys, Statistics I.
   - __Presential intensive courses__ _(two months period)_: Mathematical Analisys, Statistics II.
-  - __Presential courses__ _(four months period)_: Mathematical Analisys.
+  - __Distance courses__ _(two months period)_: Physics, Statics, Algebra, Mathematical Analisys, Statistics I, Advanced Calculus.
+
 `
     },
     {
       company: 'Data Science Diploma. Mathematics, Astronomy, Physics and Computer Science school, National University of Córdoba. (FAMAF, UNC)',
       location: 'Cordoba, AR',
       title: 'Monitoring teacher',
-      period: 'May 2023 - Sep 2023',
+      period: 'Edtions 2023 and 2024 (from May to September)',
       skills: ['Python', 'jupyter', 'numpy', 'pandas', 'matplotlib', 'seaborn', 'SQL', 'scikit-learn', 'tensorflow', 'Git'],
       contents: `
 My role at [Data science diploma, at FAMAF-UNC](https://diplodatos.famaf.unc.edu.ar/) consisted in the monitoring, advising and evaluation of assignments, of four groups of four people each.
@@ -60,9 +61,11 @@ My role at [Data science diploma, at FAMAF-UNC](https://diplodatos.famaf.unc.edu
       contents: `
 Lecturer for problem classes. Evaluation of midterm and final examns.
 
+  - __2nd term 24__ Thermodynamics and Statistical Mechanics II _and_ General Physics III (Electricity and Magnetism).
+  - __1st term 24__ Thermodynamics and Statistical Mechanics I _and_ General Physics IV (Waves and Optcis).
   - __2nd term 23__ Thermodynamics and Statistical Mechanics II _and_ Modern Physics I
   - __1st term 23__ Thermodynamics and Statistical Mechanics I _and_ Physics 4 (Modern Physics)
-  - __2nd term 22__ General Physics III (Electricity and Magnetism).
+  - __2nd term 22__ General Physics I (Mechanics).
   - __1st term 22__ Thermodynamics and Statistical Mechanics I.
   - __1st term 16__ General Physics IV (Waves and Optics).
 `,
